@@ -57,7 +57,7 @@ python3 src/pixforge.py
 ### Option 3 — Run directly
 
 ```bash
-git clone https://github.com/yourusername/pixforge.git
+git clone https://github.com/Tavo78ok/pixforge.git
 cd pixforge
 pip install -r requirements.txt
 python3 src/pixforge.py
@@ -68,7 +68,7 @@ python3 src/pixforge.py
 ## 🔧 Building the .deb yourself
 
 ```bash
-git clone https://github.com/yourusername/pixforge.git
+git clone https://github.com/Tavo78ok/pixforge.git
 cd pixforge
 chmod +x build_deb.sh
 ./build_deb.sh
