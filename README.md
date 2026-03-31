@@ -6,7 +6,7 @@
 ![Pillow](https://img.shields.io/badge/Pillow-10%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Linux-orange?logo=linux)
-[![Build & Release](https://github.com/yourusername/pixforge/actions/workflows/build.yml/badge.svg)](https://github.com/yourusername/pixforge/actions)
+[![Build & Release](https://github.com/Tavo78ok/pixforge/actions/workflows/build.yml/badge.svg)](https://github.com/Tavo78ok/pixforge/actions)
 
 PixForge is a full-featured image manipulation desktop application with a dark-themed GUI, covering everything Pillow can do — format conversion, transforms, color adjustments, filters, watermarking, batch processing, and more.
 
